@@ -53,6 +53,9 @@ seo:
     - name: 'twitter:title'
       value: Pr. Clotilde Chantal ALLELA-KWEVI - Page de contact du site.
     - name: 'twitter:description'
-      value: This is the contact page
+      value: >-
+        Le Pr. Clotilde Chantal ALLELA-KWEVI, à travers cette page, offre la
+        possibilité à tous les visiteurs de la contacter et d'émettre toutes
+        leurs requêtes online.
 layout: landing
 ---
