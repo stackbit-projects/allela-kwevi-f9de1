@@ -51,7 +51,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Contact
+      value: Pr. Clotilde Chantal ALLELA-KWEVI - Page de contact du site.
     - name: 'twitter:description'
       value: This is the contact page
 layout: landing
