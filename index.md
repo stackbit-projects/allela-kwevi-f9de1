@@ -108,8 +108,8 @@ sections:
     background: white
     title: TÉMOIGNAGES
     subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales.
+      Quelques mots des personnes qui ont pu côtoyer le Pr. Clotilde Chantal
+      ALLELA-KWEVI.
     reviews:
       - author: Eric Widget
         avatar: images/review1.jpg
