@@ -45,8 +45,7 @@ sections:
           enseignements portent sur la littérature latino-américaine et les
           productions culturelles et artistiques.</p>
         actions: []
-      - title: lorem-ipsum
-        content: >-
+      - content: >-
           ## Lorem ipsum
 
 
