@@ -133,7 +133,9 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Écrire au Pr. Clotilde Chantal
-    subtitle: This is an optional description for the call to action block.
+    subtitle: >-
+      Rédigez votre message et envoyez-le afin de recevoir un une réponse du Pr.
+      Clotilde Chantal ALLELA-KWEVI.
     actions:
       - label: Get Started
         url: /signup
