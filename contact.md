@@ -5,7 +5,7 @@ sections:
     type: section_contact
     background: gray
     title: Contact
-    content: <p align="center">"Pr Clotilde-Chantal ALLELA\n\nMaître de Conférences, Art et Littérature hispano-américains <br>Université Omar Bongo <br> Faculté de Lettres et Sciences Humaines <br> Département\_ d’Etudes Ibériques et Latino-américaines <br> BP. 17004 Tél 00 (241) 01-73-76-42\nLibreville (GABON)\n<yachadee1208@gmail.com>\n<clotilde.allela@yahoo.com>\n\n"</p>
+    content: "Pr Clotilde-Chantal ALLELA\n\nMaître de Conférences, Art et Littérature hispano-américains <br>Université Omar Bongo <br> Faculté de Lettres et Sciences Humaines <br> Département\_ d’Etudes Ibériques et Latino-américaines <br> BP. 17004 Tél 00 (241) 01-73-76-42\nLibreville (GABON)\n<yachadee1208@gmail.com>\n<clotilde.allela@yahoo.com>\n\n"
     form_id: contactForm
     form_fields:
       - input_type: text
