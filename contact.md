@@ -61,5 +61,9 @@ seo:
       value: images/1-becec81c.png
       keyName: property
       relativeUrl: true
+    - name: 'twitter:image'
+      value: images/1-becec81c.png
+      keyName: property
+      relativeUrl: true
 layout: landing
 ---
