@@ -170,7 +170,7 @@ sections:
     title: ACTUALITES
     subtitle: Tous les derniers articles et / ou parutions.
 seo:
-  title: Stackbit Azimuth Theme
+  title: Professeur Clotilde Chantal ALLELA-KWEVI - Site web officiel
   description: The preview of the Azimuth theme
   extra:
     - name: 'og:type'
