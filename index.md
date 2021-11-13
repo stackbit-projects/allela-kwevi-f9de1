@@ -103,7 +103,7 @@ sections:
       Quelques mots des personnes qui ont pu côtoyer le Pr. Clotilde Chantal
       ALLELA-KWEVI.
     reviews:
-      - author: Eric Widget
+      - author: Personne 1
         avatar: images/review1.jpg
         avatar_alt: Eric Widget's photo
         content: >-
