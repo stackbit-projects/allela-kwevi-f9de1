@@ -3,9 +3,7 @@ title: Article 3
 subtitle: >-
   Praesent ut cursus enim, sit amet dictum turpis. Etiam justo orci, consectetur
   aliquet rhoncus sed, hendrerit vel odio.
-excerpt: >-
-  Praesent ut cursus enim, sit amet dictum turpis. Etiam justo orci, consectetur
-  aliquet rhoncus sed, hendrerit vel odio.
+excerpt: En cours de rédaction...
 author: _data/authors/jane-doe.yaml
 date: '2019-03-27'
 thumb_image: images/10_thumb.jpg
