@@ -48,7 +48,7 @@ sections:
       - image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >+
-          Clotilde Chantal ALLELA-KWEVI, a été membre des jurys de thèse à
+          <p align="">Clotilde Chantal ALLELA-KWEVI, a été membre des jurys de thèse à
           l’Université de Perpignan et co-dirigé une thèse avec Pr Lavou.
           Auteure de plusieurs articles, ses travaux sont publiés spécialement
           aux Editions du CERS de l’Université Paul-Valéry de Montpellier,
