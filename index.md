@@ -82,8 +82,6 @@ sections:
           l’Université Omar Bongo de Libreville depuis 1997.
 
 
-
-
           Membre-collaboratrice, depuis plusieurs années de l’Institut
           International de Sociocritique (ISIM) fondé et dirigé par le Pr Edmond
           Cros, elle est chercheure-associée affiliée au GRENAL (Groupe de
