@@ -45,7 +45,6 @@ sections:
           enseignements portent sur la littérature latino-américaine et les
           productions culturelles et artistiques.</p>
         actions: []
-        
     - section_id: suite1
     content: >
       Ses recherches portent principalement sur la poétique de l’appareil
