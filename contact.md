@@ -57,5 +57,9 @@ seo:
         Le Pr. Clotilde Chantal ALLELA-KWEVI, à travers cette page, offre la
         possibilité à tous les visiteurs de la contacter et d'émettre toutes
         leurs requêtes online.
+    - name: 'og:image'
+      value: images/1-becec81c.png
+      keyName: property
+      relativeUrl: true
 layout: landing
 ---
