@@ -137,7 +137,7 @@ sections:
       Rédigez votre message et envoyez-le afin de recevoir un une réponse du Pr.
       Clotilde Chantal ALLELA-KWEVI.
     actions:
-      - label: Get Started
+      - label: ENVOYER LE MESSAGE
         url: /signup
         style: primary
   - section_id: recent-posts
