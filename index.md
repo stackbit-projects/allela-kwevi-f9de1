@@ -45,8 +45,7 @@ sections:
           enseignements portent sur la littérature latino-américaine et les
           productions culturelles et artistiques.</p>
         actions: []
-      - title: Awesome Feature of Your Services
-        image: images/feature2.png
+      - image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >+
           Clotilde Chantal ALLELA-KWEVI, a été membre des jurys de thèse à
