@@ -35,7 +35,7 @@ sections:
           où elle est recrutée comme Assistant à l’Université Omar Bongo
           (Libreville). En 2000, elle est admise au grade de Maître Assistant
           (CAMES), puis en 2013 accède au grade de Maître de Conférences
-          (CAMES).
+          (CAMES). <br> <br>
 
 
           Actuellement, Maître de Conférences (Art et littérature
