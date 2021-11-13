@@ -67,7 +67,7 @@ sections:
           universitaire au Gabon, tout en consolidant les programmes des cycles
           supérieurs (Licence, Master) dans des filières telles que le
           Management des organisations, les Carrières Juridiques, l’Information
-          et la communication, les carrières d’Assistant Manager…etc.</p>
+          et la communication, les carrières d’Assistant Manager…etc.</p> <br><br>
         image_alt: lorem-ipsum
         actions: []
       - image: images/Sans titre (2).png
