@@ -43,7 +43,7 @@ sections:
           Etudes Ibériques et Latino-américaines de la même université, chargée
           de la coordination de la formation doctorale de la dite section. Ses
           enseignements portent sur la littérature latino-américaine et les
-          productions culturelles et artistiques.
+          productions culturelles et artistiques.</p>
         actions: []
       - title: Awesome Feature of Your Services
         image: images/feature2.png
