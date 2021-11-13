@@ -106,7 +106,7 @@ sections:
       - author: Personne 1
         avatar_alt: Eric Widget's photo
         content: En cours de rédaction...
-      - author: Parsley Montana
+      - author: Personne 2
         avatar: images/review2.jpg
         avatar_alt: Parsley Montana's photo
         content: En cours de rédaction...
