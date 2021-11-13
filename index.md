@@ -194,7 +194,10 @@ seo:
     - name: 'twitter:title'
       value: Stackbit Azimuth Theme
     - name: 'twitter:description'
-      value: The preview of the Azimuth theme
+      value: >-
+        A travers ce blog, vous aurez un aperçu sur son parcours universitaire,
+        activités qui meublent la vie d'une femme, humble, passionnée par ce
+        qu'elle entreprend.
     - name: 'twitter:image'
       value: images/2-b05d41f0.png
       relativeUrl: true
