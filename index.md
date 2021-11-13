@@ -45,7 +45,7 @@ sections:
           enseignements portent sur la littérature latino-américaine et les
           productions culturelles et artistiques.</p>
         actions: []
-      - image: images/feature2.png
+      - image: images/Sans titre (2).png
         image_alt: App users welcoming a new member
         content: >+
           <p align="justify">Clotilde Chantal ALLELA-KWEVI, a été membre des
