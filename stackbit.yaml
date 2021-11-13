@@ -22,7 +22,6 @@ models:
         name: domain
         label: Domain
         description: >-
-          The domain of your site, including the protocol, e.g.
           https://allelakwevi.netlify.app
       - type: image
         name: favicon
