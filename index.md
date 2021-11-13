@@ -196,7 +196,7 @@ seo:
     - name: 'twitter:description'
       value: The preview of the Azimuth theme
     - name: 'twitter:image'
-      value: images/hero.png
+      value: images/2-b05d41f0.png
       relativeUrl: true
     - name: 'og:title'
       value: Professeur Clotilde Chantal ALLELA-KWEVI - Site web officiel
