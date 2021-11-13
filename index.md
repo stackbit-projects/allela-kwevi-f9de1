@@ -19,7 +19,9 @@ sections:
     type: section_features
     background: gray
     title: BIOGRAPHIE & NOTE BIOGRAPHIQUE
-    subtitle: 'Tout le parcours universitaire et les activités menés par '
+    subtitle: >-
+      Tout le parcours universitaire et les activités menés par le Pr. Clotilde
+      Chantale
     features:
       - title: BIOGRAPHIE
         image: images/feature1.png
