@@ -198,5 +198,9 @@ seo:
     - name: 'twitter:image'
       value: images/hero.png
       relativeUrl: true
+    - name: 'og:title'
+      value: Professeur Clotilde Chantal ALLELA-KWEVI - Site web officiel
+      keyName: property
+      relativeUrl: false
 layout: landing
 ---
