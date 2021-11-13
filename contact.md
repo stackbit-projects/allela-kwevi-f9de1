@@ -19,7 +19,7 @@ sections:
         is_required: true
       - input_type: textarea
         name: message
-        label: Votre message
+        label: Message
       - input_type: checkbox
         name: consent
         label: >-
