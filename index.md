@@ -79,7 +79,7 @@ sections:
           Doctorat NR en Etudes Romanes (option Hispano-américain), d’une
           Licence en Langue et culture portugaises et d’un D.U en théorie
           littéraire Sociocritique. Elle est enseignant-chercheure à
-          l’Université Omar Bongo de Libreville depuis 1997.
+          l’Université Omar Bongo de Libreville depuis 1997. <br> <br>
 
           Membre-collaboratrice, depuis plusieurs années de l’Institut
           International de Sociocritique (ISIM) fondé et dirigé par le Pr Edmond
