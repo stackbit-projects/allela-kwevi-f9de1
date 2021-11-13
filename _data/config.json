@@ -48,7 +48,7 @@
                 "title": "Site Web",
                 "nav_links": [
                     {
-                        "label": "About Us",
+                        "label": "Accueil",
                         "url": "/about",
                         "style": "link"
                     },
