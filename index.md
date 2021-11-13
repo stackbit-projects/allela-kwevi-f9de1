@@ -13,7 +13,7 @@ sections:
       qu'elle entreprend.</p>
     actions:
       - label: EN SAVOIR PLUS
-        url: '#'
+        url: '#biographie'
         style: primary
   - section_id: features
     type: section_features
