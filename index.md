@@ -111,7 +111,6 @@ sections:
         avatar_alt: Parsley Montana's photo
         content: En cours de rédaction...
       - author: Personne 3
-        avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
         content: En cours de rédaction...
   - section_id: call-to-action
