@@ -102,13 +102,7 @@ sections:
           méthodologie de Recherche. Ce qui lui a permis de développer des
           programmes dans les champs disciplinaires privilégiant l’analyse des
           supports imagés (peinture, art, iconographie) et filmiques
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
   - section_id: reviews
     type: section_reviews
     background: white
