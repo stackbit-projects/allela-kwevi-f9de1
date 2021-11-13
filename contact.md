@@ -30,7 +30,7 @@ sections:
         is_required: true
     submit_label: J'ENVOIE MON MESSAGE !
 seo:
-  title: Contact
+  title: Pr. Clotilde Chantal ALLELA-KWEVI - Page de contact du site.
   description: This is the contact page
   extra:
     - name: 'og:type'
