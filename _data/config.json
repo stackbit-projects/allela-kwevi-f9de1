@@ -40,7 +40,8 @@
                 "type": "footer_text",
                 "image_url": "/",
                 "image_alt": "Pr. Clotilde Chantal ALLELA",
-                "content": "Stackbit theme demo"
+                "content": "Stackbit theme demo",
+                "title": "Pr. Clotilde Chantal ALLELA"
             },
             {
                 "type": "footer_nav",
