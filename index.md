@@ -21,7 +21,7 @@ sections:
     title: BIOGRAPHIE & NOTE BIOGRAPHIQUE
     subtitle: >-
       Tout le parcours universitaire et les activités menés par le Pr. Clotilde
-      Chantale
+      Chantal ALLELA-KWEVI.
     features:
       - title: BIOGRAPHIE
         image: images/feature1.png
