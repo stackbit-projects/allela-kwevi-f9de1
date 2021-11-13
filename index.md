@@ -122,7 +122,7 @@ sections:
           supports imagés (peinture, art, iconographie) et filmiques.</p>
         actions: []
       - content: >
-          <p align="justify">"Parallèlement à ses activités à l’UOB, Clotilde
+          <p align="justify">Parallèlement à ses activités à l’UOB, Clotilde
           Chantal ALLELA a été Directrice Générale (2006-2019) de l’Institut des
           Sciences de l’Organisation (IUSO) de Libreville, un établissement de
           l’enseignement supérieur spécialisé dans les métiers du tertiaire.
@@ -134,7 +134,7 @@ sections:
           communication, les carrières d’Assistant Manager…etc. Auteure de
           plusieurs articles, ses travaux sont publiés spécialement aux Editions
           du CERS de l’Université Paul-Valéry de Montpellier, Presse
-          Universitaire de Perpignan (Collection Etudes), 
+          Universitaire de Perpignan (Collection Etudes).
         image_alt: lorem-ipsum
         actions: []
   - section_id: reviews
