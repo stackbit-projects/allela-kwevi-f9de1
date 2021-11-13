@@ -138,7 +138,7 @@ sections:
       Clotilde Chantal ALLELA-KWEVI.
     actions:
       - label: ENVOYER LE MESSAGE
-        url: /signup
+        url: /contact
         style: primary
   - section_id: recent-posts
     type: section_posts
