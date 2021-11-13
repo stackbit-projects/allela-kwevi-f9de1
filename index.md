@@ -171,7 +171,10 @@ sections:
     subtitle: Tous les derniers articles et / ou parutions.
 seo:
   title: Professeur Clotilde Chantal ALLELA-KWEVI - Site web officiel
-  description: The preview of the Azimuth theme
+  description: >-
+    A travers ce blog, vous aurez un aperçu sur son parcours universitaire,
+    activités qui meublent la vie d'une femme, humble, passionnée par ce qu'elle
+    entreprend.
   extra:
     - name: 'og:type'
       value: website
