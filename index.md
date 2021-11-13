@@ -46,7 +46,7 @@ sections:
           productions culturelles et artistiques.</p>
         actions: []
       - content: >
-          Ses recherches portent principalement sur la poétique de l’appareil
+          <p align="">Ses recherches portent principalement sur la poétique de l’appareil
           paratextuel, l’écriture de la marge, la mise en rapport entre les
           genres littéraires (novela testimonio) /gender studies (féminisme), le
           questionnement autour des identités des noir-e-s et afro-descendants
