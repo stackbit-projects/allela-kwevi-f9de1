@@ -43,7 +43,10 @@ seo:
       value: Pr. Clotilde Chantal ALLELA-KWEVI - Page de contact du site.
       keyName: property
     - name: 'og:description'
-      value: This is the contact page
+      value: >-
+        Le Pr. Clotilde Chantal ALLELA-KWEVI, à travers cette page, offre la
+        possibilité à tous les visiteurs de la contacter et d'émettre toutes
+        leurs requêtes online.
       keyName: property
     - name: 'twitter:card'
       value: summary_large_image
