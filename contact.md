@@ -37,7 +37,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Contact
+      value: Pr. Clotilde Chantal ALLELA-KWEVI - Page de contact du site.
       keyName: property
     - name: 'og:description'
       value: This is the contact page
