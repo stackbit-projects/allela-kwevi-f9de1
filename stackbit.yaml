@@ -16,7 +16,7 @@ models:
       - type: string
         name: title
         label: Title
-        description: Clotilde Chantal ALLELA-KWEVI - Biographie 
+        description: Clotilde Chantal ALLELA-KWEVI - Sa biographie 
         required: true
       - type: string
         name: domain
