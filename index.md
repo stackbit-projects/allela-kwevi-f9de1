@@ -73,7 +73,7 @@ sections:
         image: images/feature3.png
         image_alt: App user profile preview
         content: >
-          <p align="">Diplômée de l’l’Université Paul Valéry de Montpellier III et Maître de
+          <p align="justify">Diplômée de l’l’Université Paul Valéry de Montpellier III et Maître de
           Conférences (CAMES) en Art et Littérature hispano-américaines,
           Clotilde-Chantal KWEVI-KAYISSA (ép.) ALLELA est titulaire d’un
           Doctorat NR en Etudes Romanes (option Hispano-américain), d’une
