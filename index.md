@@ -186,7 +186,7 @@ seo:
         qu'elle entreprend.
       keyName: property
     - name: 'og:image'
-      value: images/1-becec81c.png
+      value: images/2-b05d41f0.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
