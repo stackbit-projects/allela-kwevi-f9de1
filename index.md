@@ -98,7 +98,7 @@ sections:
   - section_id: reviews
     type: section_reviews
     background: white
-    title: TÉMOIGNAGES
+    title: TEMOIGNAGES
     subtitle: >-
       Quelques mots des personnes qui ont pu côtoyer le Pr. Clotilde Chantal
       ALLELA-KWEVI.
