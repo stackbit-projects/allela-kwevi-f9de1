@@ -20,7 +20,7 @@ models:
         required: true
       - type: string
         name: allelakwevi
-        label: allela
+        label: allelakwevi
         description: >-
           https://allelakwevi.netlify.app
       - type: image
