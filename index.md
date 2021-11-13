@@ -121,8 +121,7 @@ sections:
           programmes dans les champs disciplinaires privilégiant l’analyse des
           supports imagés (peinture, art, iconographie) et filmiques.</p>
         actions: []
-      - title: lorem-ipsum
-        content: >-
+      - content: >-
           ## Lorem ipsum
 
 
