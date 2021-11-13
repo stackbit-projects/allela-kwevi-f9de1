@@ -110,7 +110,7 @@
                         "input_type": "email",
                         "name": "email",
                         "label": "Email",
-                        "default_value": "Entrez votre address",
+                        "default_value": "Entrez votre addresse",
                         "is_required": true
                     }
                 ],
