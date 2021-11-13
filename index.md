@@ -192,7 +192,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Azimuth Theme
+      value: Professeur Clotilde Chantal ALLELA-KWEVI - Site web officiel
     - name: 'twitter:description'
       value: >-
         A travers ce blog, vous aurez un aperçu sur son parcours universitaire,
