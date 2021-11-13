@@ -45,17 +45,29 @@ sections:
           enseignements portent sur la littérature latino-américaine et les
           productions culturelles et artistiques.</p>
         actions: []
-      - content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+      - content: >
+          Ses recherches portent principalement sur la poétique de l’appareil
+          paratextuel, l’écriture de la marge, la mise en rapport entre les
+          genres littéraires (novela testimonio) /gender studies (féminisme), le
+          questionnement autour des identités des noir-e-s et afro-descendants
+          dans la littérature. Critique de l’art, elle interroge dans une
+          perspective sociocritique l’objet culturel (support imagé/filmique,
+          art-peinture), afin de rendre visible la présence africaine dans la
+          construction des identités en Amérique Latine. Elle a pris part à de
+          nombreux colloques internationaux au titre de chercheure associée, en
+          France (Perpignan, Orléans), en Amérique du Nord (Howard University,
+          UQAM), en tant que professeure invitée en Amérique Latine
+          (Guadalajara, Chapala) Brasilia (Brésil) et en Afrique (Côte
+          d’Ivoire). Parallèlement à ses activités à l’UOB, Clotilde Chantal
+          ALLELA a été Directrice Générale (2006-2019) de l’Institut des
+          Sciences de l’Organisation (IUSO) de Libreville, un établissement de
+          l’enseignement supérieur spécialisé dans les métiers du tertiaire.
+          Cette haute fonction académique lui aura permis de contribuer à des
+          réformes pédagogiques en vue de l’amélioration de l’offre de formation
+          universitaire au Gabon, tout en consolidant les programmes des cycles
+          supérieurs (Licence, Master) dans des filières telles que le
+          Management des organisations, les Carrières Juridiques, l’Information
+          et la communication, les carrières d’Assistant Manager…etc.
         image_alt: lorem-ipsum
         actions: []
       - image: images/Sans titre (2).png
