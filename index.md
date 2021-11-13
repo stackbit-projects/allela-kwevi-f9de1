@@ -48,38 +48,34 @@ sections:
       - image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >+
-          <p align="justify">Clotilde Chantal ALLELA-KWEVI, a été membre des jurys de thèse à
-          l’Université de Perpignan et co-dirigé une thèse avec Pr Lavou.
-          Auteure de plusieurs articles, ses travaux sont publiés spécialement
-          aux Editions du CERS de l’Université Paul-Valéry de Montpellier,
-          Presse Universitaire de Perpignan (Collection Etudes), Interculturel,
-          Revue Interdisciplinaire de l'Alliance Française (Association
-          culturelle franco-italienne). Elle a aussi publié dans des revues
-          universitaires africaines ; Cuadernos, Revue du Centre d’études et de
-          recherches ibériques et latino-américaines, Gabonica, Hispanitas,
-          KRAAL (Revue interdisciplinaire de Lettres, arts et langues,
-          (Université du Gabon), SANKOFA, Université de Bouaké. Egalement
-          auteure de fiction, sous le pseudonyme de Kaïssa, elle a publié un
-          roman autobiographique intitulé Le chant de Yaye (Nten, 2013).</p>
+          <p align="justify">Clotilde Chantal ALLELA-KWEVI, a été membre des
+          jurys de thèse à l’Université de Perpignan et co-dirigé une thèse avec
+          Pr Lavou. Auteure de plusieurs articles, ses travaux sont publiés
+          spécialement aux Editions du CERS de l’Université Paul-Valéry de
+          Montpellier, Presse Universitaire de Perpignan (Collection Etudes),
+          Interculturel, Revue Interdisciplinaire de l'Alliance Française
+          (Association culturelle franco-italienne). Elle a aussi publié dans
+          des revues universitaires africaines ; Cuadernos, Revue du Centre
+          d’études et de recherches ibériques et latino-américaines, Gabonica,
+          Hispanitas, KRAAL (Revue interdisciplinaire de Lettres, arts et
+          langues, (Université du Gabon), SANKOFA, Université de Bouaké.
+          Egalement auteure de fiction, sous le pseudonyme de Kaïssa, elle a
+          publié un roman autobiographique intitulé Le chant de Yaye (Nten,
+          2013).</p>
 
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
       - title: NOTE BIOGRAPHIQUE
         image: images/feature3.png
         image_alt: App user profile preview
         content: >
-          <p align="justify">Diplômée de l’l’Université Paul Valéry de Montpellier III et Maître de
-          Conférences (CAMES) en Art et Littérature hispano-américaines,
-          Clotilde-Chantal KWEVI-KAYISSA (ép.) ALLELA est titulaire d’un
-          Doctorat NR en Etudes Romanes (option Hispano-américain), d’une
-          Licence en Langue et culture portugaises et d’un D.U en théorie
-          littéraire Sociocritique. Elle est enseignant-chercheure à
-          l’Université Omar Bongo de Libreville depuis 1997. <br> <br>
+          <p align="justify">Diplômée de l’l’Université Paul Valéry de
+          Montpellier III et Maître de Conférences (CAMES) en Art et Littérature
+          hispano-américaines, Clotilde-Chantal KWEVI-KAYISSA (ép.) ALLELA est
+          titulaire d’un Doctorat NR en Etudes Romanes (option
+          Hispano-américain), d’une Licence en Langue et culture portugaises et
+          d’un D.U en théorie littéraire Sociocritique. Elle est
+          enseignant-chercheure à l’Université Omar Bongo de Libreville depuis
+          1997. <br> <br>
 
           Membre-collaboratrice, depuis plusieurs années de l’Institut
           International de Sociocritique (ISIM) fondé et dirigé par le Pr Edmond
