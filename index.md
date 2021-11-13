@@ -65,7 +65,7 @@ sections:
 
         actions: []
       - title: NOTE BIOGRAPHIQUE
-        image: images/feature3.png
+        image: images/Sans titre (1).png
         image_alt: App user profile preview
         content: >
           <p align="justify">Diplômée de l’l’Université Paul Valéry de
