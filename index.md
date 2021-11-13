@@ -19,9 +19,7 @@ sections:
     type: section_features
     background: gray
     title: BIOGRAPHIE & NOTE BIOGRAPHIQUE
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: 'Tout le parcours universitaire et les activités menés par '
     features:
       - title: BIOGRAPHIE
         image: images/feature1.png
