@@ -17,6 +17,7 @@ sections:
         name: email
         label: Email
         is_required: true
+        default_value: Votre email
       - input_type: textarea
         name: message
         label: Message
