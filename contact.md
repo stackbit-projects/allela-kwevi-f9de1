@@ -17,14 +17,6 @@ sections:
         name: email
         label: Votre email
         is_required: true
-      - input_type: select
-        name: subject
-        label: Subject
-        default_value: Please select
-        options:
-          - Error on the site
-          - Sponsorship
-          - Other
       - input_type: textarea
         name: message
         label: Message
