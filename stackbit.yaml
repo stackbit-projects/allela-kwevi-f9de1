@@ -15,7 +15,7 @@ models:
     fields:
       - type: string
         name: Clotilde Chantal ALLELA-KWEVI
-        label: Title
+        label: Clotilde Chantal ALLELA-KWEVI
         description: Clotilde Chantal ALLELA-KWEVI - Sa biographie et sa note biographique.
         required: true
       - type: string
