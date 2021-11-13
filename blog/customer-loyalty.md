@@ -1,5 +1,5 @@
 ---
-title: Customer Loyalty Programs That Stick
+title: Conférence internationale sur les langues au Brésil
 subtitle: A story about customer loyalty
 author: _data/authors/jane-doe.yaml
 excerpt: En cours de rédaction...
