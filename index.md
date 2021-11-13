@@ -127,7 +127,7 @@ sections:
     background: gray
     title: ACTUALITES
     subtitle: Tous les derniers articles et / ou parutions.
-  - section_id: lorem-ipsum
+  - section_id: suite1
     content: >
       Ses recherches portent principalement sur la poétique de l’appareil
       paratextuel, l’écriture de la marge, la mise en rapport entre les genres
