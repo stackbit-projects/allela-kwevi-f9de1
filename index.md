@@ -181,9 +181,9 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Le Pr. Clotilde Chantal ALLELA-KWEVI, à travers cette page, offre la
-        possibilité à tous les visiteurs de la contacter et d'émettre toutes
-        leurs requêtes online.
+        A travers ce blog, vous aurez un aperçu sur son parcours universitaire,
+        activités qui meublent la vie d'une femme, humble, passionnée par ce
+        qu'elle entreprend.
       keyName: property
     - name: 'og:image'
       value: images/1-becec81c.png
