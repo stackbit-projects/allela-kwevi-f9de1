@@ -27,7 +27,7 @@ sections:
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >
-          Clotilde Chantal ALLELA-KWEVI, est gabonaise. Elle a fait ses études
+          <p align="justify"Clotilde Chantal ALLELA-KWEVI, est gabonaise. Elle a fait ses études
           supérieures à Libreville (Licence), Perpignan (Maîtrise), Montpellier
           (DEA, Doctorat, Licence de langue et culture portugaises, DU de
           sociocritique). En 1997, après l’obtention de son doctorat en Etudes
