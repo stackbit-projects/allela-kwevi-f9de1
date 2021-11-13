@@ -97,7 +97,8 @@ sections:
           spécialisés, elle a animé des séminaires d’épistémologie et de
           méthodologie de Recherche. Ce qui lui a permis de développer des
           programmes dans les champs disciplinaires privilégiant l’analyse des
-          supports imagés (peinture, art, iconographie) et filmiques        actions: []
+          supports imagés (peinture, art, iconographie) et filmiques
+        actions: []
   - section_id: reviews
     type: section_reviews
     background: white
