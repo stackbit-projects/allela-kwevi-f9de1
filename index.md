@@ -24,7 +24,7 @@ sections:
       Chantal ALLELA-KWEVI.
     features:
       - title: BIOGRAPHIE
-        image: images/feature1.png
+        image: images/2.png
         image_alt: App preview on a phone and tablet
         content: >
           <p align="justify">Clotilde Chantal ALLELA-KWEVI, est gabonaise. Elle
