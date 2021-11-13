@@ -20,7 +20,7 @@ sections:
       - input_type: textarea
         name: message
         label: Message
-        default_value: Entrer votre requête ici...
+        default_value: 'Entrer votre requête ici... '
       - input_type: checkbox
         name: consent
         label: >-
