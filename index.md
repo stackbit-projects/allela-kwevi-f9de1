@@ -144,6 +144,7 @@ sections:
     type: section_posts
     background: gray
     title: ACTUALITES
+    subtitle: Tous les derniers articles et / ou parutions.
 seo:
   title: Stackbit Azimuth Theme
   description: The preview of the Azimuth theme
