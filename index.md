@@ -176,12 +176,6 @@ seo:
     - name: 'og:type'
       value: website
       keyName: property
-    - name: 'og:title'
-      value: >-
-        Le Pr. Clotilde Chantal ALLELA-KWEVI, à travers cette page, offre la
-        possibilité à tous les visiteurs de la contacter et d'émettre toutes
-        leurs requêtes online.
-      keyName: property
     - name: 'og:description'
       value: >-
         Le Pr. Clotilde Chantal ALLELA-KWEVI, à travers cette page, offre la
