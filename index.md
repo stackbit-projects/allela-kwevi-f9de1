@@ -183,7 +183,7 @@ seo:
         leurs requêtes online.
       keyName: property
     - name: 'og:image'
-      value: images/hero.png
+      value: images/1-becec81c.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
