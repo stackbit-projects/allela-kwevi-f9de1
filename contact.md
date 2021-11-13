@@ -31,7 +31,10 @@ sections:
     submit_label: J'ENVOIE MON MESSAGE !
 seo:
   title: Pr. Clotilde Chantal ALLELA-KWEVI - Page de contact du site.
-  description: This is the contact page
+  description: >-
+    Le Pr. Clotilde Chantal ALLELA-KWEVI, à travers cette page, offre la
+    possibilité à tous les visiteurs de la contacter et d'émettre toutes leurs
+    requêtes online.
   extra:
     - name: 'og:type'
       value: website
