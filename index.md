@@ -128,7 +128,6 @@ sections:
     title: ACTUALITES
     subtitle: Tous les derniers articles et / ou parutions.
   - section_id: lorem-ipsum
-    title: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
