@@ -44,13 +44,7 @@ sections:
           de la coordination de la formation doctorale de la dite section. Ses
           enseignements portent sur la littérature latino-américaine et les
           productions culturelles et artistiques.
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
       - title: Awesome Feature of Your Services
         image: images/feature2.png
         image_alt: App users welcoming a new member
