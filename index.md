@@ -170,7 +170,7 @@ sections:
     title: ACTUALITES
     subtitle: Tous les derniers articles et / ou parutions.
 seo:
-  title: Professeur Clotilde Chantal ALLELA-KWEVI - Site web officiel
+  title: Pr. Clotilde Chantal ALLELA-KWEVI - Site web officiel
   description: >-
     A travers ce blog, vous aurez un aperçu sur son parcours universitaire,
     activités qui meublent la vie d'une femme, humble, passionnée par ce qu'elle
