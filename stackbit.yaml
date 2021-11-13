@@ -19,7 +19,7 @@ models:
         description: Clotilde Chantal ALLELA-KWEVI - Sa biographie et sa note biographique.
         required: true
       - type: string
-        name: allelakwevi.
+        name: allelakwevi
         label: Domain
         description: >-
           https://allelakwevi.netlify.app
